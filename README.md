@@ -10,3 +10,28 @@
   <a href="#readme-top">
     <img src="./.images/i_ping.png" alt="Logo" height="240">
   </a>
+
+  <h3 align="center">승리는 아이핑이야</h3>
+</div>
+
+### * 김부삼 사당역점
+<dl>
+  <dd>
+    <dl>
+      <dd>
+<details><summary>정보</summary><blockquote>
+&nbsp;전화 : 02-585-9493    
+&nbsp;예약,단체 이용 가능
+    
+![](./.images/250329_BDP_JupyterLab_1.png)  
+![](./.images/250329_BDP_JupyterLab_2.png)  
+![](./.images/250329_BDP_JupyterLab_3.png)  
+![](./.images/250329_BDP_JupyterLab_4.png)  
+![](./.images/250329_BDP_JupyterLab_5.png)  
+![](./.images/250329_BDP_JupyterLab_6.png)  
+
+</blockquote></details>
+      </dd>
+    </dl>
+  </dd>
+</dl>
